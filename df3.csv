@@ -1,0 +1,1167 @@
+experience_level,job_title,salary_in_usd,remote_ratio,company_location,company_size,gender,bonus_stocks_usd
+MI,Software Engineer,86592.0,0,Germany,M,Male,5412.0
+MI,Backend Developer,86592.0,0,Germany,M,Male,
+EN,Frontend Developer,58449.6,0,Germany,M,Male,
+MI,Backend Developer,67108.8,0,Germany,M,Male,
+MI,DevOps,82262.40000000001,0,Germany,S,Male,5412.0
+MI,Frontend Developer,61696.8,0,Germany,S,Male,
+MI,Frontend Developer,70356.0,0,Germany,L,Male,
+MI,Backend Developer,60614.4,0,Germany,M,Male,
+SE,Software Engineer,102828.0,0,Germany,M,Male,
+EN,Data Engineer,56826.0,0,Germany,M,Female,
+MI,Software Engineer,75768.0,0,Germany,S,Male,
+MI,Designer (UI/UX),81180.0,0,Germany,L,Male,10174.56
+MI,Backend Developer,81180.0,0,Germany,M,Male,2164.8
+MI,Backend Developer,65322.840000000004,0,Germany,L,Male,
+MI,Product Manager,84427.2,0,Germany,M,Male,
+MI,Backend Developer,64944.0,0,Germany,L,Male,
+SE,Mobile Developer,86592.0,0,Germany,M,Male,86592.0
+MI,DevOps,111487.2,0,Germany,L,Male,
+SE,Software Architect,108240.0,0,Germany,L,Male,
+MI,Software Engineer,70356.0,0,Germany,L,Male,
+MI,Backend Developer,74685.6,0,Germany,M,Male,
+SE,Software Engineer,75768.0,0,Germany,M,Male,
+SE,Team Lead,86592.0,0,Germany,M,Male,4329.6
+MI,DevOps,81180.0,0,Germany,M,Male,10824.0
+MI,Test manager,51305.76,0,Germany,L,Male,1082.4
+MI,DevOps,72520.8,0,Germany,M,Male,7576.8
+MI,Product Manager,75768.0,0,Germany,M,Male,
+SE,Software Engineer,92004.0,0,Germany,M,Male,5412.0
+MI,Backend Developer,70356.0,0,Germany,M,Male,
+MI,QA Engineer,48708.0,0,Germany,M,Female,2164.8
+MI,Software Engineer,86592.0,0,Germany,M,Male,
+MI,Software Engineer,68191.2,0,Germany,M,Male,109.32
+SE,Data Scientist,162360.0,0,Germany,L,Male,86592.0
+MI,Designer (UI/UX),48708.0,0,Germany,L,Female,
+MI,Software Engineer,86592.0,0,Germany,M,Male,
+MI,Backend Developer,81180.0,0,Germany,M,Male,
+MI,DevOps,75768.0,0,Germany,M,Male,
+MI,Frontend Developer,77932.8,0,Germany,L,Male,12988.8
+MI,Software Engineer,72520.8,0,Germany,L,Male,1623.6
+MI,Software Engineer,95251.2,0,Germany,L,Female,38100.48
+MI,Software Engineer,80097.6,0,Germany,L,Male,16236.0
+MI,Software Engineer,81180.0,0,Germany,M,Male,
+MI,Designer (UI/UX),64944.0,0,Germany,L,Female,
+MI,Backend Developer,83344.8,0,Germany,M,Male,
+MI,Backend Developer,75768.0,0,Germany,L,Female,8659.2
+SE,Software Engineer,82262.40000000001,0,Germany,M,Male,10824.0
+MI,Backend Developer,81180.0,0,Germany,M,Male,
+MI,Designer (UI/UX),48708.0,0,Germany,L,Female,
+MI,QA Engineer,64944.0,0,Germany,M,Female,
+MI,Backend Developer,70356.0,0,Germany,S,Male,
+MI,Backend Developer,73603.2,0,Germany,S,Male,
+MI,Software Engineer,70356.0,0,Germany,M,Male,5412.0
+SE,DevOps,97416.0,0,Germany,M,Male,10824.0
+MI,Software Engineer,81180.0,0,Germany,M,Male,
+SE,Software Engineer,75768.0,0,Germany,M,Male,
+MI,Software Engineer,76309.2,0,Germany,M,Female,1082.4
+MI,Backend Developer,77932.8,0,Germany,M,Male,
+MI,Frontend Developer,79556.40000000001,0,Germany,S,Male,
+SE,Software Engineer,77932.8,0,Germany,M,Male,77932.8
+MI,Frontend Developer,67108.8,0,Germany,M,Male,
+SE,Hardware Engineer,89839.2,0,Germany,L,Male,
+SE,Data Scientist,119064.0,0,Germany,L,Male,32472.0
+MI,Software Engineer,100663.2,0,Germany,L,Male,10824.0
+MI,Software Engineer,59532.0,0,Germany,S,Male,
+MI,Mobile Developer,57367.200000000004,0,Germany,S,Male,
+MI,Backend Developer,59532.0,0,Germany,L,Male,
+MI,Software Engineer,81180.0,0,Germany,L,Male,
+MI,Software Engineer,86592.0,0,Germany,L,Male,5412.0
+SE,Engineering Manager,86592.0,0,Germany,M,Male,
+MI,Backend Developer,59532.0,0,Germany,L,Male,
+MI,DevOps,75984.48,0,Germany,L,Male,81180.0
+MI,Software Engineer,54120.0,0,Germany,S,Male,
+MI,Software Engineer,84427.2,0,Germany,L,Male,
+MI,Data Scientist,64944.0,0,Germany,L,Female,10824.0
+SE,Software Engineer,92004.0,0,Germany,L,Male,
+MI,Analytics engineer,64944.0,0,Germany,M,Female,
+MI,Software Engineer,77932.8,0,Germany,M,Male,
+MI,Localization producer,74144.40000000001,0,Germany,L,Male,32472.0
+MI,Mobile Developer,77932.8,0,Germany,L,Male,
+MI,Software Engineer,70356.0,0,Germany,M,Male,
+MI,Software Engineer,64944.0,0,Germany,S,Male,
+MI,QA Engineer,66026.40000000001,0,Germany,M,Female,
+MI,Data Scientist,79015.2,0,Germany,M,Male,79015.2
+SE,DevOps,84427.2,0,Germany,M,Male,10824.0
+MI,Data Scientist,87674.40000000001,0,Germany,M,Male,
+MI,Hardware Engineer,81180.0,0,Germany,M,Male,10824.0
+MI,Reporting Engineer,59532.0,0,Germany,L,Female,3247.2
+MI,Account Managet,54120.0,0,Germany,M,Female,
+MI,QA Engineer,64944.0,0,Germany,L,Male,
+SE,Software Engineer,86592.0,0,Germany,M,Male,
+MI,agile master ,86592.0,0,Germany,L,Female,
+MI,Software Engineer,64944.0,0,Germany,M,Male,
+MI,Backend Developer,86592.0,0,Germany,L,Male,
+MI,Backend Developer,84427.2,0,Germany,M,Male,4329.6
+MI,Software Engineer,73603.2,0,Germany,L,Male,
+MI,QA Engineer,67108.8,0,Germany,L,Female,
+MI,Software Engineer,59532.0,0,Germany,S,Male,
+MI,Software Engineer,67108.8,0,Germany,M,Male,
+MI,Frontend Developer,77932.8,0,Germany,S,Male,
+MI,QA Engineer,62779.200000000004,0,Germany,L,Male,6277.92
+MI,ML Engineer,129888.0,0,Germany,L,Male,32472.0
+MI,Software Engineer,81180.0,0,Germany,M,Male,
+MI,Data Scientist,70356.0,0,Germany,M,Male,7576.8
+MI,Solution Architect,92004.0,0,Germany,L,Male,43296.0
+MI,Frontend Developer,70356.0,0,Germany,S,Male,
+SE,Backend Developer,70356.0,0,Germany,M,Male,
+MI,QA Engineer,54120.0,0,Germany,M,Male,
+MI,Backend Developer,77932.8,0,Germany,M,Male,
+MI,Software Engineer,85509.6,0,Germany,L,Male,60614.4
+MI,QA Engineer,70356.0,0,Germany,L,Female,3247.2
+MI,Software Engineer,81180.0,0,Germany,M,Female,
+MI,BI Consultant,64944.0,0,Germany,S,Male,12988.8
+MI,Backend Developer,86592.0,0,Germany,L,Male,4329.6
+MI,Mobile Developer,61696.8,0,Germany,L,Male,8659.2
+MI,Fullstack Developer,53037.6,0,Germany,M,Female,
+MI,Software Engineer,70356.0,0,Germany,S,Male,81180.0
+EN,Data Scientist,75768.0,0,Germany,L,Female,12988.8
+MI,Mobile Developer,68191.2,0,Germany,M,Male,6819.12
+MI,Product Manager,77932.8,0,Germany,L,Male,
+MI,Software Engineer,64944.0,0,Germany,S,Male,6494.4
+MI,Frontend Developer,81180.0,0,Germany,M,Male,109.32
+MI,Frontend Developer,75768.0,0,Germany,M,Male,109.32
+MI,Backend Developer,67108.8,0,Germany,M,Male,5412.0
+SE,Software Engineer,84427.2,0,Germany,M,Male,1082.4
+MI,Backend Developer,81180.0,0,Germany,M,Male,5412.0
+MI,Backend Developer,74685.6,0,Germany,M,Male,
+MI,Frontend Developer,58449.6,0,Germany,S,Male,
+MI,Product Manager,67108.8,0,Germany,M,Male,67108.8
+MI,Software Engineer,86592.0,0,Germany,M,Male,1623.6
+MI,Software Engineer,86592.0,0,Germany,M,Male,
+MI,QA Engineer,81180.0,0,Germany,M,Male,3247.2
+MI,Backend Developer,81180.0,0,Germany,M,Male,81180.0
+MI,Software Engineer,75768.0,0,Germany,L,Male,23812.8
+MI,Cloud Architect,129888.0,0,Germany,L,Male,43296.0
+MI,Designer (UI/UX),75768.0,0,Germany,M,Male,
+MI,System Administrator,47625.6,0,Germany,M,Male,
+MI,Software Engineer,86592.0,0,Germany,M,Male,5412.0
+EN,Data Scientist,51955.200000000004,0,Germany,L,Male,2164.8
+MI,Frontend Developer,54120.0,0,Germany,M,Male,5412.0
+MI,QA Engineer,73603.2,0,Germany,L,Female,
+MI,Software Engineer,71438.40000000001,0,Germany,M,Male,
+MI,Product Manager,55202.4,0,Germany,M,Male,1623.6
+MI,Backend Developer,64944.0,0,Germany,S,Male,
+MI,QA Engineer,59532.0,0,Germany,L,Female,
+SE,Product Manager,162360.0,0,Germany,L,Male,
+MI,Software Engineer,58449.6,0,Germany,M,Female,
+MI,Project Manager,67108.8,0,Germany,L,Female,
+EN,Software Engineer,64944.0,0,Germany,M,Male,
+MI,Software Engineer,81180.0,0,Germany,M,Male,8118.0
+MI,Software Engineer,59532.0,0,Germany,M,Male,
+MI,Frontend Developer,64944.0,0,Germany,M,Male,
+MI,Software Engineer,67108.8,0,Germany,L,Male,72520.8
+MI,Data Scientist,83886.0,0,Austria,M,Male,8388.6
+MI,Backend Developer,64944.0,0,Germany,M,Female,5412.0
+SE,DevOps,75768.0,0,Germany,L,Male,
+MI,Network Engineer ,74144.40000000001,0,Germany,M,Male,6494.4
+MI,Frontend Developer,76915.344,0,Germany,M,Male,109.32
+MI,QA Engineer,64944.0,0,Germany,M,Female,
+EX,VP Engineering,108240.0,0,Germany,M,Male,
+MI,Backend Developer,75768.0,0,Germany,M,Male,2164.8
+MI,Agile Coach,88756.8,0,Germany,M,Male,
+MI,Software Engineer,97416.0,0,Germany,L,Male,
+SE,Mobile Developer,76633.92,0,Germany,S,Male,
+MI,Software Engineer,59532.0,0,Germany,S,Male,
+SE,Mobile Developer,92004.0,0,Germany,S,Male,5412.0
+MI,QA Engineer,75768.0,0,Germany,M,Male,9200.4
+MI,Backend Developer,71438.40000000001,0,Germany,M,Male,75768.0
+MI,ML Engineer,67108.8,0,Germany,M,Male,
+SE,Software Engineer,102828.0,0,Germany,L,Male,5412.0
+MI,Backend Developer,70356.0,0,Germany,M,Male,75768.0
+MI,QA Engineer,54120.0,0,Germany,S,Female,
+SE,Software Engineer,86592.0,0,Germany,M,Male,
+MI,Software Engineer,86592.0,0,Germany,M,Male,
+MI,Mobile Developer,71438.40000000001,0,Germany,L,Male,
+SE,Data Science Manager,96550.08,0,Germany,L,Male,19266.72
+MI,Product Manager,97416.0,0,Germany,M,Male,10824.0
+MI,DevOps,81180.0,0,Germany,L,Male,
+SE,Data Scientist,124476.0,0,Germany,L,Male,75768.0
+MI,Scrum Master,92004.0,0,Germany,L,Male,10824.0
+MI,Mobile Developer,75768.0,0,Germany,M,Male,
+MI,Firmware Engineer,48708.0,0,Germany,S,Male,
+SE,Frontend Developer,92004.0,0,Germany,S,Male,3247.2
+MI,QA Engineer,54120.0,0,Germany,M,Female,4329.6
+SE,Software Engineer,151536.0,0,Germany,M,Male,6494.4
+MI,Software Engineer,45460.8,0,Germany,S,Male,
+SE,Solutions Architect,113652.0,0,Germany,L,Male,27060.0
+MI,Software Engineer,83344.8,0,Germany,L,Male,109.32
+MI,Data Center Manager,73603.2,0,Germany,L,Male,12988.8
+MI,Software Engineer,82262.40000000001,0,Germany,L,Female,
+MI,Fullstack Developer,75768.0,0,Germany,S,Male,4329.6
+MI,Software Engineer,75768.0,0,Germany,L,Male,5412.0
+MI,Software Engineer,68191.2,0,Germany,M,Male,
+SE,ML Engineer,103910.40000000001,0,Germany,S,Male,4329.6
+MI,Software Engineer,69273.6,0,Germany,M,Male,
+MI,Product Manager,64944.0,0,Germany,M,Female,6494.4
+MI,Mobile Developer,70356.0,0,Germany,L,Female,5412.0
+MI,Software Engineer,66567.6,0,Germany,L,Male,28142.4
+MI,Software Engineer,85509.6,0,Germany,L,Male,
+MI,Software Engineer,70356.0,0,Germany,L,Male,
+MI,Software Engineer,68191.2,0,Germany,M,Male,11148.72
+MI,Product Manager,67108.8,0,Germany,L,Female,
+SE,Software Engineer,102828.0,0,Germany,S,Male,
+MI,Designer (UI/UX),64944.0,0,Germany,S,Male,
+MI,Backend Developer,70356.0,0,Germany,L,Male,
+MI,Mobile Developer,62779.200000000004,0,Germany,S,Male,
+MI,Data Scientist,70356.0,0,Germany,M,Male,5412.0
+SE,QA Engineer,74685.6,0,Germany,S,Female,7468.56
+MI,Backend Developer,70356.0,0,Germany,L,Male,
+SE,Mobile Developer,83344.8,0,Germany,M,Male,2164.8
+MI,Backend Developer,80097.6,0,Germany,M,Male,2164.8
+SE,Engineering Manager,86592.0,0,Germany,L,Male,102828.0
+MI,QA Engineer,64944.0,0,Germany,L,Male,5087.28
+MI,DevOps,75768.0,0,Germany,M,Male,
+MI,Backend Developer,60614.4,0,Germany,L,Male,
+MI,Software Engineer,75768.0,0,Germany,M,Male,
+EN,C/C++/Java developer,51955.200000000004,0,Germany,S,Male,109.32
+MI,Backend Developer,64944.0,0,Germany,M,Male,
+MI,Mobile Developer,70356.0,0,Germany,M,Male,
+SE,DevOps Manager,108240.0,0,Germany,L,Male,
+MI,Software Engineer,64944.0,0,Germany,L,Male,67108.8
+MI,Software Engineer,62779.200000000004,0,Germany,L,Male,19483.2
+MI,Software Engineer,59748.48,0,Germany,S,Female,2164.8
+MI,Software Engineer,81180.0,0,Germany,L,Male,
+MI,Frontend Developer,54120.0,0,Germany,M,Male,
+MI,ML Engineer,70356.0,0,Germany,L,Male,2164.8
+SE,Engineering Manager,102828.0,0,Germany,L,Male,151536.0
+MI,Software Engineer,72737.28,0,Germany,L,Male,
+MI,Backend Developer,77932.8,0,Germany,M,Male,
+MI,Software Engineer,108240.0,0,Germany,L,Male,81180.0
+MI,Software Engineer,70356.0,0,Germany,M,Female,1082.4
+MI,Data Scientist,70356.0,0,Germany,L,Female,79015.2
+MI,Software Engineer,100122.0,0,Germany,L,Male,24354.0
+MI,QA Engineer,58449.6,0,Germany,M,Female,
+SE,Backend Developer,108240.0,0,Germany,S,Male,10824.0
+EN,ML Engineer,62779.200000000004,0,Germany,M,Male,
+MI,QA Engineer,75768.0,0,Germany,L,Female,2164.8
+MI,Software Engineer,77932.8,0,Germany,M,Male,
+SE,Team Lead,97416.0,0,Germany,S,Male,
+SE,Tech Lead,107157.6,0,Germany,M,Male,121228.8
+MI,Network Administrator,66242.88,0,Germany,L,Male,7901.52
+MI,Security Manager,86592.0,0,Germany,L,Male,5412.0
+MI,QA Engineer,64944.0,0,Germany,L,Male,83344.8
+EN,Consultant Data Analytics,48708.0,0,Germany,L,Male,2164.8
+MI,BI IT Consultant,60614.4,0,Germany,L,Male,18400.8
+MI,Graphic Designer,34636.8,0,Germany,M,Female,
+MI,Backend Developer,102828.0,0,Germany,L,Male,7576.8
+EN,Frontend Developer,40590.0,0,Germany,S,Male,
+MI,iOS Developer,72520.8,0,Germany,L,Male,
+MI,Banker,108240.0,0,Germany,M,Male,34636.8
+MI,Data Engineer,87674.40000000001,0,Germany,M,Male,13151.16
+MI,Cloud Engineer,77932.8,0,Germany,L,Male,10824.0
+MI,Product Manager,77932.8,0,Germany,M,Male,
+EN,Software Engineer,45460.8,0,Germany,M,Male,
+SE,Solutions architect,102828.0,0,Germany,M,Male,10824.0
+MI,Backend Developer,72520.8,0,Germany,M,Male,
+MI,Backend Developer,69273.6,0,Germany,M,Male,6494.4
+EN,Stuttgart,56284.8,0,Germany,L,Female,4329.6
+MI,Mobile Developer,64944.0,0,Germany,M,Male,64944.0
+MI,Backend Developer,92004.0,0,Germany,L,Male,
+MI,Frontend Developer,90921.6,0,Germany,L,Male,
+MI,Senior Program Manager,133784.64,0,Germany,M,Male,
+MI,Software Engineer,53037.6,0,Germany,M,Male,
+MI,QA Engineer,61696.8,0,Germany,M,Female,
+SE,QA Engineer,84427.2,0,Germany,L,Male,8659.2
+MI,Backend Developer,75768.0,0,Germany,M,Male,1623.6
+MI,Frontend Developer,61696.8,0,Germany,M,Male,
+MI,Backend Developer,77932.8,0,Germany,S,Male,16236.0
+SE,Product Manager,129888.0,0,Germany,L,Male,216480.0
+MI,QA Engineer,62779.200000000004,0,Germany,M,Female,3788.4
+SE,ML Engineer,99580.8,0,Germany,M,Male,109.32
+MI,ML Engineer,86592.0,0,Germany,L,Male,
+MI,DB developer/Data analyst,59532.0,0,Germany,S,Female,
+MI,Software Engineer,79015.2,0,Germany,M,Male,7576.8
+MI,QA Engineer,67108.8,0,Germany,M,Male,8659.2
+MI,Software Engineer,59532.0,0,Germany,S,Male,
+SE,Software Engineer,97416.0,0,Germany,M,Male,0.0
+MI,Backend Developer,86592.0,0,Germany,M,Male,0.0
+MI,Security Engineer,92004.0,0,Germany,L,Male,27060.0
+SE,Software Engineer,81180.0,0,Germany,L,Male,21648.0
+MI,DevOps,67108.8,0,Germany,L,Male,75768.0
+MI,Backend Developer,64944.0,0,Germany,S,Male,
+MI,Software Engineer,72304.32,0,Germany,M,Male,
+MI,Software Engineer,59532.0,0,Germany,M,Male,
+MI,Business Analyst,75768.0,0,Germany,M,Male,0.0
+MI,ML Engineer,97416.0,0,Germany,L,Male,
+MI,Backend Developer,75768.0,0,Germany,M,Male,
+MI,Data Engineer,73603.2,0,Germany,M,Male,541.2
+MI,DBA,69273.6,0,Germany,M,Male,75768.0
+MI,Backend Developer,77932.8,0,Germany,S,Male,0.0
+MI,DevOps,75768.0,0,Germany,M,Male,0.0
+MI,Support Engineer,68732.40000000001,0,Germany,M,Male,68732.4
+MI,Frontend Developer,75768.0,0,Germany,M,Female,0.0
+MI,Frontend Developer,73603.2,0,Germany,S,Male,0.0
+SE,Software Engineer,84427.2,0,Germany,L,Male,8659.2
+MI,Software Engineer,81180.0,0,Germany,M,Male,
+SE,Software Engineer,96950.568,0,Germany,L,Male,21907.78
+MI,Software Engineer,84427.2,0,Germany,M,Female,3247.2
+MI,Mobile Developer,86592.0,0,Germany,L,Male,
+MI,Backend Developer,75768.0,0,Germany,M,Male,75768.0
+MI,Software Engineer,72520.8,0,Germany,M,Female,5412.0
+MI,Software Engineer,92004.0,0,Germany,L,Male,5412.0
+MI,Software Engineer,82262.40000000001,0,Germany,M,Male,
+MI,Frontend Developer,71438.40000000001,0,Germany,M,Male,0.0
+MI,Consultant,70356.0,0,Germany,M,Male,75768.0
+MI,Software Engineer,140712.0,0,Germany,L,Diverse,0.0
+MI,Software Engineer,86592.0,0,Germany,M,Male,
+MI,Software Engineer,73603.2,0,Germany,M,Male,0.0
+EN,Software Engineer,49790.4,0,Germany,S,Male,2164.8
+MI,Software Engineer,61047.36,0,Germany,S,Male,
+MI,Backend Developer,87890.88,0,Germany,L,Male,87890.88
+MI,Recruiter,75768.0,0,Germany,L,Female,11906.4
+MI,Backend Developer,70356.0,0,Germany,M,Male,
+MI,Software Engineer,81180.0,0,Germany,M,Male,81180.0
+MI,Testautomation,64944.0,0,Germany,M,Male,0.0
+MI,Mobile Developer,59532.0,0,Germany,S,Male,4329.6
+MI,Software Engineer,81180.0,0,Germany,M,Male,
+MI,QA Engineer,82262.40000000001,0,Germany,M,Male,0.0
+MI,Software Engineer,82262.40000000001,0,Germany,M,Male,12988.8
+SE,Data Scientist,21648.0,0,Russia,L,Male,7035.6
+MI,Software Engineer,86592.0,0,Germany,S,Male,0.0
+MI,Software Engineer,84427.2,0,Germany,M,Male,
+MI,Backend Developer,70356.0,0,Germany,M,Male,
+MI,Software Engineer,49790.4,0,Germany,S,Male,49790.4
+MI,Backend Developer,70356.0,0,Germany,M,Male,0.0
+MI,Data Scientist,51955.200000000004,0,Germany,S,Male,5412.0
+MI,SAP Developer,76633.92,0,Germany,L,Male,5412.0
+MI,Frontend Developer,75768.0,0,Germany,S,Male,
+MI,Software Engineer,51955.200000000004,0,Germany,M,Male,
+MI,Mobile Developer,70788.96,0,Germany,S,Male,
+MI,Backend Developer,64944.0,0,Germany,L,Male,0.0
+MI,Software Engineer,76850.40000000001,0,Germany,L,Male,5412.0
+MI,Software Engineer,70356.0,0,Germany,M,Male,
+MI,Systemadministrator,47625.6,0,Germany,S,Male,
+MI,Backend Developer,29224.8,0,Poland,M,Male,
+SE,DevOps,97416.0,0,Germany,M,Male,0.0
+MI,Software Engineer,64944.0,0,Germany,M,Male,6494.4
+MI,SW Architect,79015.2,0,Germany,L,Male,432.96
+MI,Software Engineer,73062.0,0,Germany,L,Male,8118.0
+MI,SRE,71438.40000000001,0,Germany,L,Male,132.19
+SE,Software Engineer,86592.0,0,Germany,M,Female,0.0
+MI,Backend Developer,59532.0,0,Germany,M,Male,5412.0
+MI,Software Engineer,81180.0,0,Germany,L,Male,21648.0
+MI,QA Engineer,58990.8,0,Germany,S,Male,
+MI,Software Engineer,77932.8,0,Germany,L,Male,5412.0
+MI,"Fullstack engineer, ну или Software engineer",64944.0,0,Germany,S,Male,0.0
+MI,Backend Developer,92004.0,0,Germany,M,Male,4329.6
+SE,Software Engineer,81180.0,0,Germany,L,Male,
+MI,Backend Developer,70356.0,0,Germany,M,Male,
+MI,Software Engineer,81180.0,0,Germany,L,Male,
+MI,Software Engineer,84968.40000000001,0,Germany,M,Male,0.0
+MI,Product Manager,60614.4,0,Germany,M,Male,60614.4
+MI,Data Engineer,73603.2,0,Germany,M,Female,4870.8
+MI,Software Engineer,89839.2,0,Germany,L,Male,541.2
+EN,Software Engineer,57367.200000000004,0,Germany,L,Female,
+MI,Software Engineer,70356.0,0,Germany,L,Male,
+MI,Software Engineer,74144.40000000001,0,Germany,M,Male,
+MI,Frontend Developer,48708.0,0,Germany,M,Male,
+MI,Backend Developer,77932.8,0,Germany,S,Male,
+SE,Software Engineer,86592.0,0,Germany,L,Male,12988.8
+MI,Software Engineer,73603.2,0,Germany,S,Male,
+MI,Software Engineer,25977.600000000002,0,Latvia,M,Male,0.0
+SE,Software Engineer,103369.2,0,Germany,L,Male,15694.8
+MI,Software Engineer,77932.8,0,Germany,M,Male,83344.8
+MI,Software Engineer,77932.8,0,Germany,M,Male,
+MI,Mobile Developer,70356.0,0,Germany,M,Male,
+MI,Software Engineer,83994.24,0,Germany,L,Male,47084.4
+SE,Software Engineer,102828.0,0,Germany,M,Male,16236.0
+MI,Software Engineer,54552.96,0,Germany,L,Male,54552.96
+MI,Backend Developer,86592.0,0,Germany,L,Male,
+MI,Backend Developer,14071.2,0,Russia,M,Male,0.0
+MI,Project manager,140712.0,0,Switzerland,L,Male,21648.0
+MI,Software Engineer,15924.2688,0,Russia,M,Male,0.0
+MI,Product Manager,75768.0,0,Germany,M,Male,865.92
+MI,QA Engineer,80530.56,0,Germany,M,Male,
+MI,Software Engineer,75768.0,0,Germany,S,Male,0.0
+MI,Backend Developer,88756.8,0,Germany,M,Male,
+MI,Data Scientist,92004.0,0,Germany,L,Female,95251.2
+SE,Security Engineer,86592.0,0,Germany,M,Male,0.0
+MI,Software Engineer,76309.2,0,Germany,L,Male,0.0
+SE,Software Engineer,81180.0,0,Germany,M,Male,0.0
+MI,Data Scientist,62779.200000000004,0,Germany,M,Female,1082.4
+SE,Software Engineer,31173.120000000003,0,Germany,S,Male,31173.12
+MI,Designer (UI/UX),57367.200000000004,0,Germany,L,Female,70356.0
+MI,Architect,96333.6,0,Germany,M,Male,10824.0
+MI,Backend Developer,71438.40000000001,0,Finland,M,Male,2164.8
+MI,Backend Developer,86592.0,0,Germany,M,Male,0.0
+SE,Mobile Developer,81180.0,0,Germany,S,Male,93086.4
+MI,Frontend Developer,47625.6,0,Germany,M,Male,3247.2
+MI,Software Engineer,81180.0,0,Germany,M,Male,0.0
+MI,Backend Developer,64944.0,0,Germany,S,Male,1082.4
+MI,Designer (UI/UX),75768.0,0,Germany,S,Female,
+MI,Software Engineer,83236.56,0,Germany,M,Male,83777.76
+SE,Technical Lead,92004.0,0,Germany,L,Male,
+MI,Backend Developer,29224.8,0,Ukraine,M,Male,0.0
+MI,Frontend Developer,59532.0,0,Germany,L,Male,0.0
+SE,Software Engineer,102828.0,0,Germany,L,Male,0.0
+MI,Software Engineer,60614.4,0,Germany,L,Male,0.0
+MI,Software Engineer,64944.0,0,Germany,M,Female,0.0
+MI,Software Engineer,62779.200000000004,0,Germany,L,Female,3247.2
+MI,Mobile Developer,77932.8,0,Germany,L,Male,12.99
+MI,Backend Developer,49790.4,0,Germany,M,Male,
+MI,DevOps,75768.0,0,Germany,M,Male,0.0
+MI,Backend Developer,81180.0,0,Netherlands,M,Male,0.0
+MI,Frontend Developer,113652.0,0,United Kingdom,L,Male,64944.0
+EN,Software Engineer,54120.0,0,Germany,L,Female,
+MI,Mobile Developer,68191.2,0,Germany,L,Female,
+MI,QA Engineer,56284.8,0,Germany,M,Female,
+SE,Mobile Developer,70356.0,0,Germany,M,Male,70356.0
+MI,Backend Developer,64944.0,0,Germany,S,Female,
+MI,ML Engineer,67108.8,0,Netherlands,L,Male,67108.8
+SE,Tech Lead / Full-Stack,97416.0,0,Germany,S,Male,1082.4
+MI,Frontend Developer,74685.6,0,Germany,L,Male,80097.6
+MI,Software Engineer,95251.2,0,Germany,L,Male,129888.0
+MI,DevOps,87674.40000000001,0,Germany,M,Male,0.0
+MI,Frontend Developer,20240.88,0,Poland,L,Male,20782.08
+MI,Marketing Analyst,64944.0,0,Germany,M,Male,5412.0
+MI,Software Engineer,60614.4,0,Germany,S,Male,
+MI,Frontend Developer,59532.0,0,Germany,M,Male,
+MI,Mobile Developer,75768.0,0,Germany,L,Male,0.0
+EX,CTO,216480.0,0,Germany,M,Male,216480.0
+MI,Solutions Architect,108240.0,0,Germany,L,Male,21648.0
+EN,Backend Developer,51955.200000000004,0,Germany,L,Male,
+EN,Software Engineer,32472.0,0,Estonia,S,Male,0.0
+MI,Software Engineer,22860.288,0,Czech Republic,S,Male,3810.05
+MI,QA Engineer,73062.0,0,Germany,L,Female,0.0
+MI,Data Scientist,51955.200000000004,0,Netherlands,L,Male,10824.0
+MI,Frontend Developer,69273.6,0,Germany,M,Female,0.0
+MI,Software Engineer,97416.0,0,Germany,L,Male,103910.4
+MI,Senior Network&Security Eng.,74144.40000000001,0,Germany,L,Male,0.0
+MI,Fullstack Developer,61696.8,0,Germany,M,Female,1623.6
+MI,Frontend Developer,49357.44,0,Sweden,S,Male,49357.44
+MI,Software Engineer,97416.0,0,Germany,L,Male,9741.6
+MI,SAP BW Senior Consultant ,81180.0,0,Germany,L,Male,5412.0
+SE,Software Engineer,67108.8,0,Germany,M,Male,
+MI,Mobile Developer,48708.0,0,Ukraine,S,Male,
+MI,Software Engineer,89839.2,0,Germany,L,Male,11906.4
+MI,Software Engineer,71763.12,0,Germany,M,Male,1082.4
+MI,Software Engineer,70356.0,0,Germany,L,Female,
+SE,Software Engineer,92004.0,0,Germany,L,Male,
+MI,QA Manager ,64944.0,0,Germany,M,Female,0.0
+MI,Software Engineer,64944.0,0,Germany,M,Male,0.0
+MI,Software Engineer,102828.0,0,Germany,L,Male,
+EX,Director of Engineering,108240.0,0,Germany,L,Male,0.0
+MI,IT Spezialist,85834.32,0,Germany,L,Male,12880.56
+MI,Product Manager,64944.0,0,Germany,L,Female,
+MI,Software Engineer,51955.200000000004,0,Germany,S,Male,0.0
+MI,Software Engineer,64944.0,0,Germany,M,Male,0.0
+MI,Software Engineer,36801.6,0,Poland,S,Male,
+MI,QA Engineer,61696.8,0,Germany,M,Female,0.0
+MI,Software Engineer,58449.6,0,Estonia,M,Male,
+MI,Software Engineer,64944.0,0,Germany,S,Male,0.0
+MI,Mobile Developer,70356.0,0,Estonia,M,Male,21648.0
+MI,Software Engineer,86592.0,0,Germany,M,Male,6494.4
+MI,Frontend Developer,64944.0,0,Germany,S,Female,
+MI,Software Engineer,64944.0,0,Germany,L,Male,6494.4
+MI,Software Engineer,81180.0,0,Germany,L,Male,5412.0
+MI,Engineering Manager,92004.0,0,Germany,M,Male,
+EN,Frontend Developer,50872.8,0,Germany,L,Male,
+EN,ML Engineer,67108.8,0,Germany,L,Male,8659.2
+MI,Designer (UI/UX),60614.4,0,Germany,S,Male,
+EN,Software Engineer,54120.0,0,Germany,M,Female,
+MI,Software Engineer,81180.0,0,Germany,M,Male,8659.2
+SE,Product Manager,97416.0,0,Germany,L,Male,10824.0
+MI,Software Engineer,88756.8,0,Germany,L,Male,12988.8
+MI,Software Engineer,81180.0,0,Germany,L,Male,
+MI,Software Engineer,57367.200000000004,0,Germany,M,Male,0.0
+MI,Backend Developer,83344.8,0,Germany,M,Male,0.0
+SE,Manager,194832.0,0,Germany,L,Male,162360.0
+MI,Software Engineer,59532.0,0,Germany,M,Male,0.0
+SE,Software Engineer,88756.8,0,Germany,M,Male,
+SE,Data Scientist,108240.0,0,Germany,M,Male,129888.0
+SE,ML Engineer,75768.0,0,Germany,S,Male,0.0
+EN,Data Scientist,50872.8,0,Germany,S,Female,0.0
+MI,Software Engineer,75768.0,0,Germany,S,Male,0.0
+SE,Software Engineer,108240.0,0,Germany,M,Male,0.0
+MI,Software Engineer,70356.0,0,Germany,M,Male,
+MI,Mobile Developer,86592.0,0,Germany,L,Male,14612.4
+MI,Data Scientist,58449.6,0,Germany,L,Male,0.0
+MI,Consultant ,77932.8,0,Germany,M,Male,0.0
+MI,Frontend Developer,84427.2,0,Germany,S,Male,
+MI,Software Engineer,64944.0,0,Germany,L,Male,27060.0
+MI,DevOps,64944.0,0,Germany,M,Female,5412.0
+EN,Mobile Developer,54120.0,0,Germany,S,Female,0.0
+SE,Software Engineer,129888.0,0,Germany,M,Male,54120.0
+MI,Data Analyst,67108.8,0,Germany,M,Male,
+MI,QA Engineer,64944.0,0,Germany,M,Male,1082.4
+MI,Software Engineer,62779.200000000004,0,Germany,S,Female,
+SE,Product Manager,87674.40000000001,0,Germany,S,Male,7576.8
+SE,DevOps,75768.0,0,Germany,S,Male,
+MI,Frontend Developer,86592.0,0,Germany,S,Male,0.0
+MI,Data Scientist,75768.0,0,Germany,M,Male,75768.0
+MI,Software Engineer,68948.88,0,Germany,L,Male,1731.84
+MI,Software Engineer,70356.0,0,Germany,M,Male,
+EN,Product Manager,32472.0,0,Germany,S,Male,
+MI,Data Scientist,75768.0,0,Germany,M,Male,5953.2
+SE,Software Developer in Test,71438.40000000001,0,Germany,M,Female,0.0
+MI,Mobile Developer,75768.0,0,Germany,M,Male,
+MI,Data Scientist,70356.0,0,Germany,M,Female,4329.6
+SE,Software Architect,132052.80000000002,0,Germany,L,Male,48708.0
+MI,Frontend Developer,44161.92,0,Germany,M,Male,3680.16
+MI,Software Engineer,62779.200000000004,0,Germany,L,Male,
+MI,QA Engineer,74902.08,0,Germany,M,Male,0.0
+MI,Software Engineer,77932.8,0,Germany,S,Male,0.0
+MI,Technical account manager ,61696.8,0,Germany,M,Male,
+SE,Software Engineer,90921.6,0,Germany,M,Male,
+MI,Data Scientist,63861.6,0,Germany,M,Male,0.0
+MI,Frontend Developer,73603.2,0,Germany,M,Male,0.0
+MI,Data Engineer,73603.2,0,Germany,L,Male,
+MI,Software Engineer,95251.2,0,Germany,L,Male,0.0
+MI,Software Engineer,76850.40000000001,0,Germany,L,Male,
+MI,Data Engineer,70356.0,0,Germany,M,Male,0.0
+MI,Data Scientist,54120.0,0,Germany,M,Male,16236.0
+MI,Data Scientist,40590.0,0,Italy,M,Male,0.0
+MI,Software Engineer,70356.0,0,Germany,M,Male,5412.0
+MI,Software Engineer,60614.4,0,Germany,S,Male,8659.2
+MI,DevOps,86592.0,0,Germany,M,Male,
+MI,Software Engineer,89839.2,0,Germany,L,Male,18400.8
+MI,QA Engineer,82803.6,0,Germany,L,Male,0.0
+MI,Frontend Developer,64944.0,0,Germany,S,Male,0.0
+MI,Frontend Developer,85509.6,0,Germany,L,Male,5412.0
+MI,Data Scientist,97416.0,0,Germany,M,Male,19483.2
+MI,ML Engineer,88756.8,0,Germany,L,Male,41672.4
+MI,Backend Developer,84427.2,0,Germany,S,Male,2164.8
+MI,Software Engineer,64944.0,0,Germany,M,Male,
+MI,Frontend Developer,81180.0,0,Germany,L,Male,
+SE,Tech Leader,140712.0,0,Germany,M,Male,
+EX,Chief Research Officer,124476.0,0,Austria,M,Male,27060.0
+MI,QA Engineer,70356.0,0,Germany,M,Male,0.0
+MI,SRE,81180.0,0,Germany,M,Male,10824.0
+MI,ML Engineer,38966.4,0,Italy,L,Male,2597.76
+MI,Data Scientist,82262.40000000001,0,Germany,L,Female,10824.0
+SE,Data Engineer,97416.0,0,Germany,L,Male,1244760.0
+MI,Data Engineer,58449.6,0,Germany,L,Male,1082.4
+MI,Data Engineer,70356.0,0,Germany,L,Male,10824.0
+EN,Product Manager,32472.0,0,Germany,S,Male,
+MI,DevOps,71438.40000000001,0,Germany,M,Male,6494.4
+SE,Product Manager,64944.0,0,Germany,M,Male,9741.6
+MI,Presales Engineer ,68191.2,0,Germany,M,Male,
+MI,Data Scientist,67108.8,0,Germany,M,Female,0.0
+EN,Data Scientist,55202.4,0,Germany,L,Male,10824.0
+MI,Data Scientist,84427.2,0,Germany,L,Male,
+EN,Data Scientist,324720.0,0,Germany,M,Male,
+MI,Software Engineer,61696.8,0,Germany,S,Male,
+MI,Data Scientist,48708.0,0,Germany,M,Female,0.0
+MI,Frontend Developer,46543.200000000004,0,Germany,M,Male,4654.32
+MI,Business Development Manager Operations ,42213.6,0,Germany,L,Female,
+MI,Frontend Developer,79015.2,0,Germany,M,Male,0.0
+MI,Frontend Developer,80097.6,0,Germany,L,Male,11906.4
+MI,Program Manager,93086.40000000001,0,Netherlands,L,Female,32472.0
+MI,Frontend Developer,80097.6,0,Germany,L,Male,0.0
+MI,DevOps,59532.0,0,Germany,M,Male,59532.0
+MI,Researcher,43296.0,0,Germany,S,Male,
+MI,Product Manager,92004.0,0,Germany,M,Male,5412.0
+MI,Software Engineer,60614.4,0,Germany,L,Female,
+MI,Software Engineer,75768.0,0,Germany,M,Male,0.0
+MI,QA Engineer,73603.2,0,Germany,L,Female,
+MI,QA Engineer,75768.0,0,Germany,L,Male,
+MI,Data Scientist,77932.8,0,Germany,L,Male,92004.0
+SE,Engineering manager,86592.0,0,Germany,L,Male,0.0
+SE,Software Engineer,83344.8,0,Germany,L,Male,21648.0
+MI,Software Engineer,83344.8,0,Germany,L,Male,0.0
+MI,Data Scientist,60614.4,0,Germany,S,Male,63861.6
+MI,Data Scientist,86592.0,0,Germany,L,Male,0.0
+MI,Backend Developer,97416.0,0,Germany,S,Male,
+MI,QA Engineer,58449.6,0,Germany,S,Female,
+SE,Engineering Manager,106075.2,0,Germany,L,Male,27060.0
+MI,Backend Developer,100663.2,0,Germany,L,Male,1082.4
+SE,Software Engineer,108240.0,0,Germany,M,Male,108240.0
+MI,Data Scientist,75768.0,0,Germany,L,Female,0.0
+SE,Software Engineer,81180.0,0,Germany,M,Male,0.0
+MI,Software Engineer,68191.2,0,Germany,M,Male,69175.1
+MI,Backend Developer,75768.0,0,Germany,L,Male,0.0
+MI,Backend Developer,86592.0,0,Germany,L,Male,108240.0
+MI,ML Engineer,81180.0,0,Germany,S,Male,16236.0
+SE,QA Engineer,92004.0,0,Germany,M,Male,
+MI,Backend Developer,59532.0,0,Germany,S,Male,0.0
+MI,Embedded Software Engineer,84427.2,0,Germany,L,Male,0.0
+SE,Software Engineer,107157.6,0,Germany,M,Male,107157.6
+MI,Backend Developer,97416.0,0,Netherlands,S,Male,0.0
+SE,Product Manager,56284.8,0,Germany,S,Female,
+MI,Software Engineer,38966.4,0,Poland,L,Male,
+MI,Dana Analyst,48708.0,0,Germany,S,Male,0.0
+MI,Backend Developer,81180.0,0,Germany,M,Male,0.0
+SE,Team Manager,92004.0,0,Germany,L,Male,16236.0
+MI,Backend Developer,102828.0,0,Germany,M,Male,43296.0
+MI,Backend Developer,68191.2,0,Germany,M,Male,7576.8
+MI,Backend Developer,110404.8,0,Germany,M,Male,
+SE,Software Engineer,102828.0,0,Germany,L,Male,16236.0
+MI,Backend Developer,85076.64,0,Germany,M,Male,
+SE,Software Engineer,75768.0,0,Germany,M,Male,83344.8
+MI,Software Engineer,72520.8,0,Germany,L,Male,76309.2
+MI,Software Engineer,45460.8,0,Germany,M,Male,
+MI,QA Engineer,57367.200000000004,0,Germany,L,Male,0.0
+SE,Software Engineer,270600.0,0,United States,L,Male,487080.0
+MI,Software Engineer,57367.200000000004,0,Germany,L,Female,5412.0
+MI,Data Analyst,83344.8,0,Germany,M,Male,0.0
+MI,Software Engineer,86592.0,0,Germany,S,Male,86592.0
+MI,DevOps,63645.12,0,Germany,L,Male,22405.68
+MI,DevOps,81180.0,0,Germany,L,Male,1082.4
+MI,Data Engineer,92004.0,0,Germany,M,Male,5412.0
+MI,Software Engineer,75768.0,0,Germany,S,Male,81180.0
+MI,Software Engineer,84427.2,0,Germany,S,Male,84427.2
+MI,Software Engineer,61696.8,0,Germany,M,Male,0.0
+SE,Software Engineer,81180.0,0,Germany,M,Female,
+MI,Data Analyst ,68191.2,0,Germany,L,Female,0.0
+MI,Data Scientist,64944.0,0,Germany,M,Male,16236.0
+MI,Mobile Developer,64944.0,0,France,M,Male,6494.4
+MI,Backend Developer,47625.6,0,Germany,M,Male,6494.4
+MI,Frontend Developer,58990.8,0,Germany,M,Female,
+SE,Software Engineer,97416.0,0,Germany,L,Male,7576.8
+SE,Frontend Developer,89298.0,0,Germany,L,Male,0.0
+MI,Data Engineer,81180.0,0,Germany,S,Female,0.0
+MI,QA Engineer,64944.0,0,Germany,M,Male,0.0
+MI,Mobile Developer,92004.0,0,Ireland,M,Male,0.0
+MI,Data Engineer,58449.6,0,Germany,L,Male,6494.4
+MI,Backend Developer,70356.0,0,Sweden,L,Male,9741.6
+MI,Designer (UI/UX),45460.8,0,Germany,M,Female,0.0
+EN,Data Scientist,55202.4,0,Germany,M,Male,4600.2
+SE,Product Manager,82262.40000000001,0,Germany,M,Male,21648.0
+MI,Mobile Developer,70356.0,0,Germany,M,Male,0.0
+MI,Mobile Developer,92004.0,0,Netherlands,L,Male,96333.6
+MI,QA Engineer,64944.0,0,Germany,M,Female,
+SE,Product Manager,97416.0,0,Germany,L,Male,10824.0
+MI,Software Engineer,93086.40000000001,0,Germany,L,Male,
+MI,Software Engineer,64944.0,0,Germany,M,Male,0.0
+MI,QA Engineer,87674.40000000001,0,Germany,L,Male,48708.0
+MI,DevOps,64944.0,0,Germany,M,Male,
+MI,Software Engineer,80097.6,0,Germany,M,Male,0.0
+MI,Backend Developer,62346.240000000005,0,Germany,M,Male,8659.2
+MI,Software Engineer,75768.0,0,Germany,M,Male,
+MI,QA Engineer,81180.0,0,Germany,M,Female,0.0
+MI,Software Engineer,70356.0,0,Germany,S,Male,
+SE,Software Engineer,97416.0,0,Germany,L,Male,
+MI,Software Engineer,64944.0,0,Germany,L,Male,5412.0
+MI,Software Engineer,97416.0,0,Germany,L,Male,108240.0
+EN,Software Engineer,32472.0,0,Germany,S,Male,
+MI,ML Engineer,97416.0,0,Germany,L,Male,
+MI,Software Engineer,69273.6,0,Germany,M,Male,9741.6
+MI,Mobile Developer,47625.6,0,Germany,L,Male,
+SE,Backend Developer,86592.0,0,Germany,M,Male,0.0
+SE,Software Engineer,79015.2,0,Germany,M,Male,1082.4
+SE,Architect ,129888.0,0,Germany,L,Male,54120.0
+MI,Software Engineer,77662.2,0,Germany,L,Male,6494.4
+MI,Backend Developer,70356.0,0,Germany,M,Female,0.0
+MI,Frontend Developer,86592.0,0,Germany,S,Male,0.0
+MI,QA Engineer,64944.0,0,Germany,M,Female,75768.0
+MI,Backend Developer,71438.40000000001,0,Germany,L,Male,3247.2
+SE,Frontend Developer,92004.0,0,Germany,M,Male,
+MI,Data Scientist,70356.0,0,Germany,M,Male,0.0
+SE,Head of Engineering,140712.0,0,Germany,L,Male,21648.0
+MI,Backend Developer,88648.56,0,Germany,L,Male,111054.24
+MI,Product Manager,92004.0,0,Germany,L,Male,
+MI,QA Engineer,48708.0,0,Germany,M,Female,
+MI,SAP Consultant,88756.8,0,Germany,L,Male,12988.8
+SE,Data Scientist,108240.0,0,Germany,M,Male,129888.0
+SE,DevOps,77932.8,0,Germany,L,Male,8659.2
+MI,Product Manager,75768.0,0,Germany,M,Male,
+MI,Product Manager,75768.0,0,Germany,M,Male,
+MI,DevOps,67108.8,0,Germany,M,Male,0.0
+SE,DevOps,89839.2,0,Germany,M,Male,
+MI,Mobile Developer,83344.8,0,Germany,L,Male,541.2
+MI,Software Engineer,76850.40000000001,0,Germany,M,Male,7685.04
+MI,Mobile Developer,70356.0,0,Germany,M,Male,
+MI,Backend Developer,46543.200000000004,0,Germany,S,Male,0.0
+MI,Software Engineer,87674.40000000001,0,Germany,L,Male,3653.1
+MI,Frontend Developer,59532.0,0,Germany,S,Male,0.0
+MI,QA Engineer,68191.2,0,Germany,M,Male,
+MI,Software Engineer,81180.0,0,Germany,M,Male,0.0
+EN,Data Scientist,23812.8,0,Spain,M,Male,2164.8
+MI,BI Consultant SAP/ Data Engineer,70356.0,0,Germany,S,Female,83344.8
+MI,DevOps,67108.8,0,France,L,Male,
+MI,Data Engineer,70356.0,0,Germany,L,Male,1082.4
+MI,DevOps,40048.8,0,United Kingdom,M,Male,
+MI,Backend Developer,55202.4,0,Germany,M,Female,4329.6
+SE,Backend Developer,100663.2,0,Germany,M,Male,
+MI,Frontend Developer,75768.0,0,Germany,S,Male,1082.4
+SE,Data Scientist,75768.0,0,Germany,L,Male,6494.4
+MI,Frontend Developer,70356.0,0,Germany,L,Male,5412.0
+MI,Data Engineer,55202.4,0,Germany,S,Male,
+MI,DevOps,97416.0,0,Germany,L,Male,
+SE,QA Engineer,172101.6,0,Germany,L,Diverse,37884.0
+SE,Engineering Manager,113652.0,0,Germany,L,Male,0.0
+MI,Software Engineer,86592.0,0,Germany,M,Male,
+EN,Software Engineer,54120.0,0,Germany,M,Female,0.0
+MI,Frontend Developer,77932.8,0,Germany,S,Male,
+MI,DevOps,113652.0,0,Germany,L,Male,162360.0
+EN,Data Engineer,53037.6,0,Germany,S,Male,5412.0
+MI,Backend Developer,59532.0,0,Germany,M,Male,0.0
+MI,Backend Developer,71438.40000000001,0,Germany,M,Male,0.0
+MI,Mobile Developer,92004.0,0,Germany,L,Male,10824.0
+MI,Mobile Developer,92004.0,0,Germany,M,Male,10824.0
+MI,Frontend Developer,85509.6,0,Germany,L,Male,10824.0
+MI,QA Engineer,45460.8,0,Germany,S,Female,0.0
+MI,Backend Developer,80097.6,0,Germany,L,Male,11906.4
+SE,Backend Developer,72520.8,0,Germany,M,Male,
+MI,DevOps,80097.6,0,Germany,M,Female,10824.0
+MI,Frontend Developer,51955.200000000004,0,Germany,M,Male,0.0
+MI,Product Manager,62519.424,0,Germany,S,Female,7262.9
+SE,Software Engineer,111487.2,0,Germany,M,Male,216480.0
+MI,Frontend Developer,80097.6,0,Germany,M,Male,
+MI,Backend Developer,75768.0,0,Germany,M,Male,0.0
+MI,Backend Developer,93086.40000000001,0,Germany,M,Male,
+MI,QA Engineer,49790.4,0,Germany,M,Female,
+EN,computer vision researcher,24895.2,0,Finland,M,Female,24895.2
+MI,Software Engineer,86592.0,0,Germany,M,Male,0.0
+SE,Teamlead,81180.0,0,Germany,S,Male,81180.0
+EN,Software Engineer,54120.0,0,Germany,L,Male,0.0
+MI,Software Engineer,31389.600000000002,0,Czech Republic,S,Female,0.0
+SE,Engineering Manager,84427.2,0,Germany,M,Male,12988.8
+MI,Backend Developer,81180.0,0,Netherlands,S,Male,
+MI,Backend Developer,64944.0,0,Germany,M,Male,
+MI,Software Engineer,75768.0,0,Germany,L,Male,0.0
+MI,Software Engineer,59532.0,0,Germany,S,Female,
+MI,Software Engineer,38966.4,0,Czech Republic,L,Male,3896.64
+MI,Hardware Engineer,60614.4,0,Germany,S,Male,0.0
+SE,Backend Developer,92004.0,0,Germany,M,Male,
+MI,ML Engineer,86592.0,0,Germany,L,Male,12988.8
+MI,Mobile Developer,81180.0,0,Germany,L,Male,1082.4
+EN,Software Engineer,61696.8,0,Germany,L,Female,1082.4
+MI,Software Engineer,70356.0,0,Germany,M,Male,0.0
+MI,DevOps,86592.0,0,Germany,L,Male,
+MI,Software Engineer,94168.8,0,Germany,S,Male,104992.8
+MI,Software Engineer,85509.6,0,Germany,S,Male,
+MI,Software Engineer,108240.0,0,Germany,L,Male,10824.0
+MI,Backend Developer,58449.6,0,Germany,M,Male,
+MI,Data Scientist,86592.0,0,Germany,L,Male,10824.0
+MI,Data Scientist,64944.0,0,Germany,L,Male,6494.4
+MI,Mobile Developer,69273.6,0,Finland,M,Male,1190.64
+MI,Frontend Developer,920040.0,0,Germany,M,Male,102828.0
+MI,Software Engineer,64944.0,0,Germany,L,Male,
+MI,Backend Developer,79015.2,0,Germany,M,Male,
+MI,Software Engineer,86592.0,0,Germany,L,Male,10824.0
+MI,Data Engineer,89839.2,0,Germany,L,Male,0.0
+MI,Designer (UI/UX),45460.8,0,Czech Republic,L,Male,
+MI,Data Scientist,73603.2,0,Germany,M,Male,8659.2
+MI,Consultant,108240.0,0,Germany,L,Male,32472.0
+MI,Software Engineer,86592.0,0,Germany,L,Male,0.0
+EN,Software Engineer,51955.200000000004,0,Germany,M,Male,
+MI,Software Engineer,81180.0,0,Germany,M,Male,0.0
+SE,Engineering Manager,92004.0,0,Germany,M,Male,
+MI,Backend Developer,119064.0,0,Germany,M,Male,
+MI,DevOps,75768.0,0,Germany,M,Male,10824.0
+MI,Fullstack Developer,81180.0,0,Germany,S,Male,
+MI,Senior Data Engineer,97416.0,0,Germany,M,Male,
+MI,Frontend Developer,92004.0,0,Germany,M,Male,
+MI,Frontend Developer,119064.0,0,Belarus,S,Male,
+MI,Software Engineer,119064.0,0,Germany,M,Male,7576.8
+MI,QA Engineer,73603.2,0,Germany,M,Male,
+EN,Analyst,48708.0,0,Germany,L,Female,
+MI,Software Engineer,86592.0,0,Germany,M,Male,
+MI,Software Engineer,70356.0,0,Germany,M,Male,5412.0
+MI,IT Manager,70356.0,0,Germany,M,Male,10824.0
+MI,QA Engineer,64944.0,0,Germany,L,Male,70356.0
+SE,Mobile Developer,259776.0,0,Germany,L,Male,16236.0
+MI,QA Engineer,64944.0,0,Germany,L,Female,2164.8
+SE,Head of IT ,86592.0,0,Germany,M,Male,5412.0
+SE,Engineering Manager,92004.0,0,Germany,S,Male,0.0
+MI,Software Engineer,81180.0,0,Germany,M,Male,0.0
+MI,Software Engineer,79015.2,0,Germany,M,Male,32472.0
+SE,Backend Developer,97416.0,0,Germany,S,Male,
+MI,Mobile Developer,86592.0,0,Germany,L,Male,10824.0
+EN,Data Scientist,45460.8,0,France,S,Male,54120.0
+MI,Software Engineer,75768.0,0,Germany,M,Male,
+MI,Product Manager,92004.0,0,Germany,M,Female,
+MI,QA Engineer,58449.6,0,Germany,M,Male,
+MI,Data Scientist,83344.8,0,Germany,L,Female,0.0
+MI,Frontend Developer,35719.200000000004,0,Russia,M,Female,0.0
+MI,Software Engineer,75768.0,0,Germany,L,Male,3247.2
+MI,DevOps,86592.0,0,Germany,M,Male,
+SE,Lead Software Developer,70356.0,0,Germany,M,Male,0.0
+MI,Software Engineer,92004.0,0,Germany,S,Male,0.0
+MI,Backend Developer,75768.0,0,Germany,S,Male,
+SE,Software Engineer,86592.0,0,Germany,L,Male,10824.0
+EN,Software Engineer,64944.0,0,Germany,S,Male,0.0
+MI,Data Engineer,97416.0,0,Germany,M,Male,
+MI,Backend Developer,57367.200000000004,0,Germany,S,Male,
+MI,Data Scientist,59532.0,0,Germany,M,Male,0.0
+MI,Software Engineer,48708.0,0,Germany,S,Male,0.0
+MI,data engineer,73603.2,0,Germany,L,Male,0.0
+MI,Software Engineer,62779.200000000004,0,Germany,L,Male,3247.2
+SE,ML Engineer,86592.0,0,Germany,L,Male,16236.0
+MI,Software Engineer,140712.0,0,Germany,L,Male,54120.0
+MI,Tech recruiting,43296.0,0,Germany,M,Female,1082.4
+SE,Data Scientist,86592.0,0,Germany,S,Male,97416.0
+MI,Software Engineer,81180.0,0,Germany,M,Male,86592.0
+MI,Software Engineer,164386.25280000002,0,Germany,L,Male,41096.56
+MI,ML Engineer,51955.200000000004,0,Netherlands,M,Male,0.0
+EN,ML Engineer,61696.8,0,Germany,L,Female,
+MI,Data Scientist,86592.0,0,France,L,Male,10824.0
+MI,ML Engineer,70356.0,0,Germany,L,Female,
+SE,Product Manager,97416.0,0,Germany,L,Male,10824.0
+MI,Mobile Developer,54120.0,0,Germany,S,Male,0.0
+EN,Data Scientist,56284.8,0,Germany,S,Female,0.0
+MI,ML Engineer,55202.4,0,Germany,S,Female,
+MI,Software Engineer,57150.72,0,Poland,M,Male,4762.56
+EN,Data Scientist,59532.0,0,Germany,L,Female,
+SE,Software Engineer,102828.0,0,Germany,M,Male,
+MI,Data Scientist,66567.6,0,Germany,S,Male,71979.6
+MI,Software Engineer,84427.2,0,Germany,L,Male,4329.6
+MI,ML Engineer,541200000.0,0,Germany,S,Female,5412000000.0
+EN,Backend Developer,45460.8,0,Germany,M,Female,3247.2
+SE,Software Engineer,90921.6,0,Germany,S,Male,90921.6
+SE,Data Scientist,108240.0,0,Netherlands,S,Male,21648.0
+MI,Data Analyst,53037.6,0,Germany,M,Male,0.0
+EN,Data Scientist,64944.0,0,Germany,M,Male,86592.0
+MI,Data Analyst ,73603.2,0,Germany,M,Male,4870.8
+MI,Backend Developer,75768.0,0,Germany,M,Male,0.0
+MI,Backend Developer,75768.0,0,Germany,S,Male,0.0
+SE,Software Engineer,102828.0,0,Germany,M,Male,
+EN,BI Analyst ,51955.200000000004,0,Germany,M,Female,0.0
+SE,Software Engineer,124476.0,0,Germany,L,Male,18400.8
+MI,Software Engineer,64944.0,0,Germany,M,Female,17210.16
+EN,ML Engineer,53037.6,0,Germany,M,Male,
+EN,Frontend Developer,43296.0,0,Germany,M,Female,
+MI,Software Engineer,88215.6,0,Germany,L,Male,4870.8
+MI,BI Developer / Data Engineer,81180.0,0,Germany,M,Male,8118.0
+SE,DevOps,101745.6,0,Germany,L,Male,0.0
+MI,ML Engineer,108240.0,0,Germany,L,Male,108240.0
+MI,QA Engineer,59532.0,0,Germany,M,Female,
+MI,Data Scientist,64944.0,0,Germany,M,Male,2164.8
+MI,Frontend Developer,86592.0,0,Germany,S,Male,
+MI,Software Engineer,72520.8,0,Germany,S,Male,6494.4
+MI,Backend Developer,60614.4,0,Germany,M,Male,0.0
+MI,Data Scientist,34636.8,0,Italy,S,Male,6494.4
+EN,ML Engineer,48708.0,0,Germany,M,Female,0.0
+MI,Backend Developer,83344.8,0,Germany,L,Male,
+EN,Data Scientist,59532.0,0,Germany,L,Male,59532.0
+SE,Software Engineer,102828.0,0,Germany,M,Male,
+MI,Product Manager,75768.0,0,Germany,L,Male,0.0
+SE,Senior Scrum Master (RTE),97416.0,0,Germany,L,Male,0.0
+MI,QA Engineer,69273.6,0,Germany,M,Male,
+MI,Backend Developer,73032.7752,0,Germany,M,Male,0.0
+SE,Software Engineer,102828.0,0,Germany,M,Male,
+SE,Head of BI,108240.0,0,Germany,M,Male,
+SE,QA Engineer,70356.0,0,Germany,L,Female,6494.4
+SE,Software Engineer,98498.40000000001,0,Germany,M,Male,
+MI,Data Scientist,64944.0,0,Germany,M,Male,0.0
+MI,SRE,85509.6,0,Germany,L,Male,0.0
+MI,Technical project manager,70356.0,0,Germany,L,Male,6494.4
+MI,Project manager ,116899.2,0,Germany,L,Female,0.0
+MI,support engineer,48708.0,0,Germany,L,Female,48708.0
+MI,Frontend Developer,71438.40000000001,0,Germany,M,Male,
+MI,Software Engineer,81180.0,0,United Kingdom,M,Male,6494.4
+MI,Frontend Developer,71979.6,0,Germany,L,Male,
+MI,Backend Developer,69273.6,0,Germany,L,Male,79015.2
+SE,Backend Developer,113652.0,0,Germany,S,Male,16236.0
+MI,Software Engineer,89839.2,0,Germany,L,Male,
+MI,Software Engineer,56284.8,0,Germany,L,Female,
+MI,Software Engineer,67108.8,0,Germany,L,Male,
+MI,Data Engineer,80097.6,0,Germany,L,Male,22730.4
+MI,QA Engineer,61372.08,0,Germany,M,Male,
+MI,Software Engineer,58449.6,0,Germany,M,Male,0.0
+MI,Security engineer,77932.8,0,Germany,M,Male,
+MI,Data Scientist,92004.0,0,Germany,L,Female,7576.8
+EN,DevOps,70356.0,0,Germany,L,Male,
+MI,Software Engineer,99580.8,0,Germany,L,Male,43296.0
+MI,Software Engineer,58449.6,0,Germany,M,Female,
+SE,Software Architect,108240.0,0,Russia,M,Male,0.0
+MI,Frontend Developer,83615.40000000001,0,Germany,M,Male,94439.4
+MI,Backend Developer,61696.8,0,Germany,M,Male,
+MI,Software Engineer,64944.0,0,Germany,M,Male,0.0
+MI,Software Engineer,75768.0,0,Germany,L,Male,21648.0
+SE,Frontend Developer,86592.0,0,Germany,S,Male,92004.0
+EN,ML Engineer,51955.200000000004,0,Germany,S,Male,
+SE,Software Engineer,80097.6,0,Germany,L,Male,6494.4
+MI,Data Scientist,75768.0,0,Germany,L,Female,81180.0
+MI,QA Engineer,59532.0,0,Germany,M,Male,0.0
+EN,Backend Developer,27060.0,0,Germany,S,Male,1082.4
+EN,Data Scientist,51955.200000000004,0,Netherlands,M,Male,16236.0
+SE,Software Engineer,97416.0,0,Germany,L,Male,1082.4
+EN,Data Scientist,62779.200000000004,0,Germany,L,Male,
+MI,Big Data Engineer,70356.0,0,Germany,M,Male,3247.2
+MI,Designer (UI/UX),54552.96,0,Germany,S,Male,0.0
+MI,Business Analyst,74144.40000000001,0,Poland,M,Male,75768.0
+MI,Software Engineer,74685.6,0,Germany,M,Male,2164.8
+MI,QA Engineer,51955.200000000004,0,Sweden,M,Female,
+MI,Software Engineer,62779.200000000004,0,Germany,L,Female,6494.4
+MI,Backend Developer,75768.0,0,Germany,L,Male,76850.4
+MI,Data Scientist,61696.8,0,Germany,S,Male,0.0
+MI,Data Scientist,114734.40000000001,0,Switzerland,S,Male,114734.4
+MI,Data Analyst,53254.08,0,Ireland,L,Male,2164.8
+MI,Data Scientist,45460.8,0,Spain,M,Male,
+SE,CTO,54120.0,0,Italy,M,Male,
+EN,ML Engineer,46543.200000000004,0,Germany,S,Male,46543.2
+MI,Data Scientist,83344.8,0,Germany,L,Male,12988.8
+MI,Data Scientist,72520.8,0,Germany,L,Female,0.0
+MI,Software Engineer,22730.4,0,Portugal,M,Male,0.0
+MI,Data Scientist,43296.0,0,Spain,L,Male,0.0
+MI,ML Engineer,69273.6,0,Bulgaria,S,Male,0.0
+SE,Manager ,97416.0,0,Germany,L,Male,8118.0
+EN,Data Scientist,27384.72,0,Italy,L,Male,3247.2
+SE,Professor,86592.0,0,Germany,M,Male,0.0
+MI,Backend Developer,92653.44,0,Germany,M,Female,10824.0
+MI,Data Scientist,59748.48,0,Germany,L,Male,0.0
+SE,AI Management,99580.8,0,Germany,L,Male,15153.6
+SE,Backend Developer,103910.40000000001,0,Germany,L,Male,108240.0
+MI,Frontend Developer,64944.0,0,Finland,M,Male,2706.0
+SE,Data Scientist,92004.0,0,France,L,Male,102828.0
+SE,Sales ,119064.0,0,Italy,S,Male,108240.0
+MI,Software Engineer,97416.0,0,Germany,L,Male,107157.6
+EN,Software Engineer,59532.0,0,Germany,S,Male,59532.0
+MI,Backend Developer,186172.80000000002,0,Switzerland,L,Male,108240.0
+SE,XR Developer,27060.0,0,Germany,S,Male,2164.8
+SE,Data Scientist,113652.0,0,Germany,S,Male,0.0
+MI,Data Scientist,68191.2,0,Germany,S,Male,
+MI,DevOps,77932.8,0,Germany,S,Male,
+MI,DevOps,70356.0,0,Germany,M,Male,5412.0
+MI,Backend Developer,89839.2,0,Germany,M,Male,0.0
+SE,Data Scientist,124476.0,0,Switzerland,L,Male,14071.2
+MI,Frontend Developer,62779.200000000004,0,Germany,M,Male,
+MI,Software Engineer,54120.0,0,Germany,L,Male,541.2
+MI,Backend Developer,81180.0,0,Germany,M,Male,
+SE,Backend Developer,86592.0,0,Germany,M,Male,5412.0
+SE,Engineering Team Lead,70356.0,0,Germany,M,Female,3517.8
+MI,Software Engineer,53037.6,0,Germany,S,Male,
+MI,Data Scientist,54120.0,0,Germany,S,Male,5412.0
+MI,ML Engineer,63861.6,0,Germany,M,Male,0.0
+MI,Data Scientist,56826.0,0,Germany,S,Male,0.0
+MI,DevOps,32472.0,0,Spain,S,Male,0.0
+MI,Data Analyst,89839.2,0,Germany,M,Male,21648.0
+MI,Software Engineer,63861.6,0,Germany,S,Male,7576.8
+MI,Data Scientist,81180.0,0,Germany,S,Male,0.0
+MI,Frontend Developer,58449.6,0,Germany,M,Male,58449.6
+MI,Frontend Developer,62779.200000000004,0,Germany,M,Male,62779.2
+MI,ML Engineer,75768.0,0,Germany,M,Male,
+EN,Software Engineer,51955.200000000004,0,Germany,M,Male,0.0
+MI,Software Engineer,95251.2,0,Germany,L,Male,5412.0
+MI,Product Manager,62508.6,0,Germany,M,Male,
+EN,Software Engineer,48708.0,0,Germany,S,Male,48708.0
+MI,Data Scientist,81180.0,0,Germany,L,Female,10824.0
+MI,Software Engineer,122311.2,0,United Kingdom,L,Male,184008.0
+MI,Product Manager,80097.6,0,Germany,L,Male,15153.6
+MI,Data Engineer,88756.8,0,Germany,M,Male,88756.8
+MI,Data Scientist,88756.8,0,Germany,M,Male,0.0
+MI,DevOps,70139.52,0,Germany,S,Male,10228.68
+MI,Software Engineer,75768.0,0,Germany,M,Male,4329.6
+MI,Software Engineer,77932.8,0,Germany,L,Male,5412.0
+SE,Software Engineer,88756.8,0,Germany,L,Male,2164.8
+SE,DataOps Team Lead,86592.0,0,Austria,L,Male,43296.0
+MI,Backend Developer,70356.0,0,Germany,L,Female,81180.0
+MI,Software Engineer,83344.8,0,Germany,L,Male,0.0
+MI,Data Scientist,86592.0,0,Germany,L,Female,0.0
+MI,Software Engineer,70356.0,0,Germany,M,Male,0.0
+MI,Software Engineer,63930.8736,0,Finland,M,Male,71922.23
+MI,Software Engineer,97416.0,0,Germany,L,Male,32472.0
+MI,Software Sales,162360.0,0,Germany,L,Male,21648.0
+MI,QA Engineer,75768.0,0,Germany,M,Female,
+MI,Backend Developer,57908.4,0,Germany,L,Male,57908.4
+SE,Software Engineer,97416.0,0,Germany,S,Male,0.0
+MI,Software Engineer,81180.0,0,Germany,M,Male,89298.0
+MI,Product Manager,70356.0,0,Germany,L,Male,70356.0
+MI,Software Engineer,67541.76,0,Germany,L,Male,5412.0
+MI,Beikoch,32472.0,0,Germany,S,Male,1082.4
+MI,Software Engineer,97416.0,0,Germany,M,Male,
+MI,Data Scientist,67108.8,0,Austria,L,Male,3247.2
+MI,Frontend Developer,64944.0,0,Germany,L,Female,4329.6
+MI,Backend Developer,71005.44,0,Germany,M,Male,865.92
+MI,Mobile Developer,86592.0,0,Sweden,L,Male,
+MI,QA Engineer,34636.8,0,Germany,L,Female,
+MI,Data Analyst,57367.200000000004,0,Germany,M,Female,0.0
+MI,Software Engineer,70356.0,0,Germany,L,Male,1082.4
+SE,Data Scientist,84427.2,0,Germany,M,Male,0.0
+MI,QA Engineer,60073.200000000004,0,Germany,M,Male,
+MI,Software Engineer,108240.0,0,Germany,L,Male,0.0
+EN,Data Scientist,41131.200000000004,0,Belgium,L,Male,0.0
+EN,Data analyst ,38966.4,0,Germany,L,Female,38966.4
+EN,Software Engineer,70356.0,0,Germany,L,Male,14071.2
+SE,Software Engineer,108240.0,0,Germany,L,Male,37884.0
+MI,Software Engineer,64944.0,0,Germany,L,Male,2164.8
+MI,Software Engineer,64944.0,0,Germany,L,Male,2164.8
+MI,Software Engineer,108240.0,0,Switzerland,S,Male,19483.2
+MI,Frontend Developer,71438.40000000001,0,Germany,L,Male,
+MI,Backend Developer,79015.2,0,Germany,M,Male,
+MI,Software Engineer,69273.6,0,Czech Republic,L,Female,0.0
+MI,Product Analyst,59532.0,0,Germany,L,Male,0.0
+MI,Software Engineer,80097.6,0,Germany,L,Male,3247.2
+MI,QA Engineer,64944.0,0,Germany,L,Female,2164.8
+MI,DevOps,73062.0,0,Germany,M,Male,3030.72
+SE,Software Engineer,97416.0,0,Germany,M,Male,5412.0
+SE,DevOps,134217.6,0,Germany,M,Male,115816.8
+MI,QA Engineer,70356.0,0,Germany,S,Female,
+MI,Software Engineer,81180.0,0,Germany,M,Male,13530.0
+MI,Software Engineer,61696.8,0,Germany,M,Male,0.0
+MI,Software Engineer,61696.8,0,Germany,M,Male,0.0
+SE,Backend Developer,129888.0,0,Germany,M,Male,129888.0
+EN,Frontend Developer,25977.600000000002,0,Netherlands,S,Female,0.0
+MI,Backend Developer,64944.0,0,Germany,S,Female,
+MI,Backend Developer,62779.200000000004,0,Germany,M,Male,0.0
+MI,Software Engineer,81180.0,0,Germany,L,Male,102828.0
+MI,Software Engineer,76850.40000000001,0,Germany,M,Male,
+EN,DevOps,56826.0,0,Germany,S,Male,
+SE,Team lead,92004.0,0,Germany,M,Male,
+MI,Software Engineer,54120.0,0,Germany,M,Male,54120.0
+MI,Backend Developer,71438.40000000001,0,Germany,M,Male,4329.6
+MI,Backend Developer,102828.0,0,Germany,L,Male,135300.0
+EN,Backend Developer,54120.0,0,Germany,S,Male,5412.0
+SE,Frontend Developer,75768.0,0,Germany,S,Male,
+MI,Data Scientist,94168.8,0,Germany,L,Female,16236.0
+MI,Software Engineer,73603.2,0,Germany,M,Male,0.0
+EN,It Consulting ,58449.6,0,Germany,L,Female,1623.6
+SE,Software Engineer,89839.2,0,Germany,L,Male,3247.2
+MI,ML Engineer,119064.0,0,United States,M,Male,27060.0
+MI,Software Engineer,100663.2,0,Germany,S,Male,10824.0
+MI,Data Scientist,79772.88,0,Germany,L,Female,87024.96
+MI,Data Scientist,92004.0,0,Germany,M,Male,21648.0
+MI,Data Scientist,94764.12,0,Germany,M,Male,0.0
+MI,Software Engineer,86592.0,0,Germany,M,Male,
+MI,Backend Developer,70356.0,0,Germany,M,Male,5412.0
+MI,Backend Developer,44053.68,0,Germany,S,Male,
+MI,Product Manager,51955.200000000004,0,Russia,L,Male,7793.28
+MI,ML Engineer,64944.0,0,Germany,S,Male,70356.0
+EN,Data Scientist,64944.0,0,Germany,S,Female,64944.0
+EN,Software Engineer,47084.4,0,Germany,M,Male,
+MI,Software Engineer,64944.0,0,Germany,M,Female,
+MI,Designer (UI/UX),64944.0,0,Germany,L,Female,0.0
+MI,Data architect,97416.0,0,Germany,L,Male,2706.0
+MI,Software Engineer,106075.2,0,Germany,L,Male,30307.2
+MI,ML Engineer,55202.4,0,Germany,S,Male,3247.2
+MI,Software Engineer,74685.6,0,Germany,L,Male,
+MI,Data Scientist,61696.8,0,Germany,L,Male,
+MI,Data Scientist,53957.64,0,Netherlands,S,Female,541.2
+MI,Backend Developer,54120.0,0,Germany,M,Male,0.0
+MI,Software Engineer,70356.0,0,Germany,L,Male,34095.6
+MI,IT Manager,79015.2,0,Germany,L,Male,4329.6
+MI,ML Engineer,40590.0,0,Germany,M,Male,0.0
+MI,Backend Developer,70356.0,0,Germany,L,Female,0.0
+MI,Backend Developer,45460.8,0,France,M,Male,
+SE,Staff Engineer,92004.0,0,Germany,L,Male,3247.2
+EN,Software Engineer,48708.0,0,Germany,L,Male,7576.8
+SE,Head of IT,108240.0,0,Germany,M,Male,21648.0
+MI,Backend Developer,73603.2,0,Germany,L,Male,0.0
+MI,Computational linguist,54552.96,0,Germany,S,Female,0.0
+EN,Product Analyst,59532.0,0,Germany,L,Male,0.0
+MI,Data Scientist,59532.0,0,Germany,M,Male,64944.0
+SE,Data Engineer,97416.0,0,Germany,M,Male,10824.0
+MI,Data Scientist,81180.0,0,Germany,M,Female,0.0
+MI,Backend Developer,86592.0,0,Germany,S,Male,
+MI,Software Engineer,66026.40000000001,0,Germany,L,Male,68191.2
+MI,Data Engineer,54120.0,0,Germany,M,Male,0.0
+MI,technical business analyst,74685.6,0,Germany,S,Male,5412.0
+SE,Software Engineer,81180.0,0,Germany,M,Male,5412.0
+MI,QA Engineer,102828.0,0,Germany,L,Male,8659.2
+MI,Frontend Developer,75768.0,0,Germany,M,Male,6494.4
+MI,Software Engineer,80097.6,0,Germany,L,Male,
+MI,Data Scientist,70356.0,0,Germany,M,Male,
+MI,Data Scientist,70356.0,0,Germany,M,Male,
+SE,DevOps,92004.0,0,Germany,L,Male,27.06
+EN,DevOps,83344.8,0,Germany,L,Male,21648.0
+MI,Software Engineer,64944.0,0,Germany,M,Male,5412.0
+MI,DevOps,64944.0,0,Germany,M,Male,2164.8
+EN,Software Engineer,73603.2,0,Germany,M,Male,2164.8
+EN,Full-Stack Developer,49249.200000000004,0,Germany,M,Male,49249.2
+MI,DevOps,77932.8,0,Germany,M,Male,8659.2
+MI,Data Scientist,72520.8,0,Germany,M,Male,5412.0
+MI,DevOps,92004.0,0,Germany,L,Male,2164.8
+MI,Backend Developer,81180.0,0,Germany,M,Male,
+MI,Backend Developer,75768.0,0,Germany,M,Male,7576.8
+MI,DevOps,88756.8,0,Germany,M,Male,0.0
+MI,Software Engineer,92004.0,0,Germany,M,Male,10824.0
+MI,Software Engineer,75768.0,0,Germany,M,Male,
+MI,Product Manager,64944.0,0,Germany,M,Female,0.0
+MI,Frontend Developer,48708.0,0,United Kingdom,M,Female,48708.0
+SE,CTO,90921.6,0,Germany,S,Male,99580.8
+MI,Data Scientist,86592.0,0,Germany,L,Male,7576.8
+MI,QA Manager,49790.4,0,Germany,M,Female,2164.8
+MI,Mobile Developer,81180.0,0,Germany,L,Male,
+SE,Product Manager,124476.0,0,Germany,L,Male,6494.4
+MI,Software Engineer,107157.6,0,Germany,L,Male,1298.88
+SE,Backend Developer,97416.0,0,Germany,M,Male,21648.0
+SE,QA Lead,77932.8,0,Germany,S,Male,
+MI,ML Engineer,58449.6,0,Germany,S,Male,10824.0
+MI,Designer (UI/UX),48708.0,0,Germany,S,Female,
+SE,Backend Developer,86592.0,0,Germany,L,Male,
+MI,Robotics Engineer,48708.0,0,Belgium,S,Male,0.0
+MI,ML Engineer,64944.0,0,Sweden,L,Male,64944.0
+SE,Software Engineer,81180.0,0,Germany,M,Male,81180.0
+MI,Data Scientist,99580.8,0,Denmark,S,Male,5412.0
+SE,DevOps,97416.0,0,Germany,M,Male,
+MI,Backend Developer,18942.0,0,Portugal,L,Female,1353.0
+MI,Software Engineer,68191.2,0,Germany,M,Female,3247.2
+MI,Software Engineer,70356.0,0,Germany,M,Female,0.0
+SE,Data Scientist,81180.0,0,Germany,S,Female,17318.4
+SE,Software Engineer,119064.0,0,Germany,M,Male,119064.0
+MI,Data Scientist,64944.0,0,Germany,M,Male,10824.0
+MI,Software Engineer,75768.0,0,Germany,L,Female,21648.0
+MI,Software Engineer,75768.0,0,Germany,L,Female,21648.0
+MI,QA Engineer,75768.0,0,Germany,L,Male,81180.0
+MI,Software Engineer,75768.0,0,Germany,L,Male,10824.0
+MI,Mobile Developer,75768.0,0,Germany,L,Male,
+EN,Data Engineer,43296.0,0,Germany,L,Male,0.0
+MI,Frontend Developer,67108.8,0,Germany,M,Male,757.68
+MI,Data Engineer,61696.8,0,Germany,M,Male,3247.2
+MI,Backend Developer,97416.0,0,Germany,M,Male,
+MI,Product Manager,64944.0,0,Germany,M,Female,
+MI,Software Engineer,78474.0,0,Germany,L,Male,10824.0
+MI,Backend Developer,81180.0,0,Germany,L,Male,10824.0
+MI,Backend Developer,92004.0,0,Germany,L,Male,97416.0
+SE,Mobile Developer,67650.0,0,Germany,M,Male,0.0
+MI,Software Engineer,71330.16,0,Germany,L,Male,17210.16
+SE,Engineering Manager,92004.0,0,Germany,L,Male,16236.0
+MI,Software Engineer,102828.0,0,Germany,L,Male,37884.0
+MI,Backend Developer,81180.0,0,Germany,L,Male,8118.0
+MI,Software Engineer,81180.0,0,Germany,L,Male,5412.0
+MI,DatabEngineer,32472.0,0,Spain,M,Male,0.0
+MI,Frontend Developer,69273.6,0,Germany,L,Female,2164.8
+MI,Project Manager,55202.4,0,Germany,M,Female,
+SE,Data Scientist,119064.0,0,Germany,L,Male,75768.0
+MI,Software Engineer,115816.8,0,Germany,L,Male,97416.0
+MI,Backend Developer,108240.0,0,Germany,L,Male,16236.0
+MI,Software Engineer,75768.0,0,Germany,M,Male,2164.8
+MI,QA Engineer,75768.0,0,Germany,M,Male,7576.8
+MI,Software Engineer,73603.2,0,Germany,L,Male,3247.2
+EN,Application Consultant,49790.4,0,Germany,L,Female,2164.8
+MI,Frontend Developer,108240.0,0,Germany,M,Male,5412.0
+SE,Team Lead,75984.48,0,Germany,M,Male,
+MI,Backend Developer,81180.0,0,Germany,M,Male,
+MI,Mobile Developer,81180.0,0,Netherlands,S,Male,0.0
+MI,Software Engineer,92004.0,0,Germany,S,Male,
+MI,Software Engineer,71438.40000000001,0,Germany,M,Male,6494.4
+MI,DevOps,97416.0,0,Germany,L,Male,0.0
+MI,Consultant,62779.200000000004,0,Germany,M,Male,0.0
+MI,Software Engineer,97416.0,0,Germany,L,Male,97416.0
+MI,QA Engineer,37884.0,0,Poland,M,Male,0.0
+MI,Software Engineer,51414.0,0,Germany,S,Female,0.0
+SE,Backend Developer,70356.0,0,Germany,S,Male,0.0
+MI,Backend Developer,77932.8,0,Germany,L,Male,
+MI,Software Engineer,79015.2,0,Germany,L,Male,17318.4
+MI,Backend Developer,54120.0,0,Germany,S,Male,0.0
+SE,Lead Developer,77932.8,0,Germany,M,Male,6494.4
+MI,Mobile Developer,73603.2,0,Germany,L,Male,2164.8
+MI,Data Scientist,75768.0,0,Germany,L,Male,32472.0
+SE,Frontend Developer,62346.240000000005,0,Germany,M,Female,0.0
+MI,Software Engineer,73603.2,0,Germany,M,Male,1623.6
+MI,Backend Developer,81180.0,0,Germany,M,Male,0.0
+SE,Software Engineer,102828.0,0,Germany,L,Male,5412.0
+SE,Backend Developer,88756.8,0,Germany,M,Male,
+SE,Backend Developer,97416.0,0,Czech Republic,L,Male,43296.0
+MI,Software Engineer,56284.8,0,Germany,S,Male,
+MI,Mobile Developer,70356.0,0,Germany,M,Male,0.0
+SE,Software Engineer,108240.0,0,Germany,M,Male,10824.0
+SE,Software Architekt,102828.0,0,Germany,M,Male,16236.0
+EN,Software Engineer,59532.0,0,Germany,L,Male,59532.0
+MI,Backend Developer,92004.0,0,Germany,M,Male,92004.0
+MI,Frontend Developer,73873.8,0,Germany,M,Male,0.0
+MI,Software Engineer,68191.2,0,Germany,M,Male,
+MI,Frontend Developer,68191.2,0,Germany,M,Male,0.0
+MI,Software Engineer,68191.2,0,Germany,M,Male,4329.6
+MI,ML Engineer,70356.0,0,Germany,L,Male,2164.8
+MI,Software Engineer,81180.0,0,Germany,L,Male,
+EN,Testmanager,64944.0,0,Germany,L,Female,64944.0
+MI,Project Manager,21648.0,0,Russia,L,Male,2164.8
+MI,Project Manager,21648.0,0,Russia,L,Male,2164.8
+MI,QA Engineer,82262.40000000001,0,Germany,L,Male,3247.2
+MI,Mobile Developer,91679.28,0,Germany,M,Male,1082.4
+MI,Software Engineer,56284.8,0,Germany,S,Male,
+MI,Data Analyst,102828.0,0,Germany,L,Male,113652.0
+SE,ERP Consultant,140712.0,0,Germany,L,Male,
+SE,Software Engineer,102828.0,0,Germany,S,Male,0.0
+MI,Frontend Developer,59532.0,0,Germany,M,Male,
+SE,Head of Engineering,97416.0,0,Germany,M,Male,21648.0
+MI,Software Engineer,117440.40000000001,0,Switzerland,S,Male,
+MI,Backend Developer,75768.0,0,Germany,M,Male,77932.8
+MI,Researcher/ Consumer Insights Analyst ,64944.0,0,Germany,L,Male,3247.2
+SE,IT Operations Manager,119064.0,0,Germany,M,Male,0.0
+MI,Frontend Developer,41510.04,0,Germany,M,Male,44324.28
+MI,DevOps,70356.0,0,Germany,M,Male,7035.6
